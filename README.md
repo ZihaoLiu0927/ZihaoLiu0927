@@ -49,6 +49,9 @@
 
 ------------
 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZihaoLiu0927)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zliu0927/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zliu927@brandeis.edu)
 
 <!--
 **ZihaoLiu0927/ZihaoLiu0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
