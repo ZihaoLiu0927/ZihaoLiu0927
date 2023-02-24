@@ -4,7 +4,7 @@
     😆 Hey! Welcome to my github page!
   <br>
     I am Zihao Liu, a Fullstack developer from China, currently living in Boston, USA.
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" />
 
 #### ⚡ Things I am currently interested in ⚡:
 - Backend development focused on performance.
@@ -12,9 +12,9 @@
 - Rust programming.
 </p>
 
-
+------------
 <br>
-<bt>
+<br>
 <br>
 
 <p>
@@ -23,7 +23,8 @@
 </p>
 
 <br>
-### ⭐️ &nbsp;Tech Stack
+
+#### ⭐️ &nbsp;Tech Stack
 
 <p>
 <a><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" /></a>
@@ -46,7 +47,7 @@
 <a><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a>
 </p>
 
-
+------------
 
 
 <!--
