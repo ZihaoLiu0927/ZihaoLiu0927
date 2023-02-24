@@ -1,19 +1,23 @@
 <p align="left">
-  <sub><a><img align="right" width="600" height="200" src="./img/imrs.jpeg"></a></sub>
+  <sub><a><img align="right" width="50%" height="100%" src="./img/imrs.jpeg"></a></sub>
   <br>
     😆 Hey! Welcome to my github page!
   <br>
     I am Zihao Liu, a Fullstack developer from China, currently living in Boston, USA.
-<<<<<<< HEAD
-<sub><a><img align="right" width="400" height="100%" src="./img/mario_illumination.jpg"></a></sub>
-=======
->>>>>>> aeebb8d (new fig)
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 #### ⚡ Things I am currently interested in ⚡:
 - Backend development focused on performance.
 - Frontend development for building cool web pages with React, CSS, Next.js etc.
-- Rust programming language.
+- Rust programming.
+
+
+</p>
+
+
+<p>
+<img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ZihaoLiu0927&show_icons=true&theme=radical" />
+<img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZihaoLiu0927&hide=jupyter%20notebook,shell&layout=compact&theme=highcontrast&hide_progress=true" />
 </p>
 
 <br>
@@ -41,10 +45,6 @@
 </p>
 
 
-<p>
-<img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ZihaoLiu0927&show_icons=true&theme=radical" />
-<img width="45%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZihaoLiu0927&hide=jupyter%20notebook,shell&layout=compact&theme=highcontrast&hide_progress=true" />
-</p>
 
 
 <!--
