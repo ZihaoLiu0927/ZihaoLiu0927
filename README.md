@@ -12,18 +12,36 @@
 
 </p>
 
-<br />
+### ⭐️ &nbsp;Tech Stack
 
 <p>
-<a><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
-<a><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></a>
-<a><img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /></a>
-<a><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></a>
-<a><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
-<a><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" /> </a>
+<a><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" /> </a>
+<a><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" /></a>
+<a><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
+<a><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZihaoLiu0927&show_icons=true&theme=radical)
+
+<img width="500" height="220" src="https://github-readme-stats.vercel.app/api?username=ZihaoLiu0927&show_icons=true&theme=radical" />
+<sub><a><img align="right" width="800" height="430" src="./mario_illumination.jpg"></a></sub>
+<br>
+<img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZihaoLiu0927&hide=jupyter%20notebook,shell&layout=compact&theme=highcontrast&hide_progress=true" />
+
+
 
 <!--
 **ZihaoLiu0927/ZihaoLiu0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
