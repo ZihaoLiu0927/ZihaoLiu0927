@@ -18,8 +18,8 @@
 <br>
 
 <p>
-<img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ZihaoLiu0927&show_icons=true&theme=radical" />
-<img align="right" width="49%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZihaoLiu0927&hide=jupyter%20notebook,shell&layout=compact&theme=highcontrast&hide_progress=true" />
+<img width="48%" height="100%" src="https://github-readme-stats.vercel.app/api?username=ZihaoLiu0927&show_icons=true&theme=radical" />
+<img align="right" width="48%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZihaoLiu0927&hide=jupyter%20notebook,shell&layout=compact&theme=highcontrast&hide_progress=true" />
 </p>
 
 <br>
