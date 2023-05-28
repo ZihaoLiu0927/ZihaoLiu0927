@@ -6,10 +6,9 @@
     I am Zihao Liu, a Fullstack developer from China, currently living in Boston, USA.
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px" />
 
-#### ⚡ Things I am currently working on | interested in ⚡:
+#### ⚡ Things I am currently interested in ⚡:
 - Web development: Frontend development for building cool web pages with React, CSS, Html etc.
 - Backend development focused on performance.
-- Rust programming.
 </p>
 
 ------------
